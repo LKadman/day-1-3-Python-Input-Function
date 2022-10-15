@@ -37,7 +37,21 @@ print("Hello " + input("What is your name?") + "!")
 # input() will get user input inconsole
 # then print() will print word "Hello" and the user input
 
+#Exercise 3 - Input Function
 
+# Instructions
+# Write a program that prints the number of characters in a user's name. You might need to Google for a function that calculates the length of a string.
+
+# e.g.
+
+# https://www.google.com/search?q=how+to+get+the+length+of+a+string+in+python+stack+overflow
+
+# Warning. Your program should work for different inputs. e.g. any name that you input.
+
+# Example Input
+# Angela
+# Example Output
+# 6
 
 
 
