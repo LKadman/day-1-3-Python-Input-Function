@@ -26,7 +26,7 @@
 
 # to print "Hello Angela", use concatenation
 
-print("Hello " + input("What is your name?") + "!")
+# print("Hello " + input("What is your name?") + "!")
 
 # the input() function is nested inside the print() function
 
@@ -53,8 +53,8 @@ print("Hello " + input("What is your name?") + "!")
 # Example Output
 # 6
 
-
-
+# Note: use print(len(input(prompt))) = input > lenght > print
+print(len(input("What is your name?")))
 
 
 
